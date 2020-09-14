@@ -1,2 +1,2 @@
 # nasz-projekt
-Przykładowy projekt
+Przykładowy opis fascynującego projektu
